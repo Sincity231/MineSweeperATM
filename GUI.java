@@ -1,5 +1,5 @@
 /**
- * @author      Uddam Bhathal <Uddam.Bhathal@student.tdsb.on.ca>
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
  * @version     1
  * @since       1
  */
